@@ -1,7 +1,10 @@
 ### Hi there 👋
 I am FiveM developer from Czech Republic
+
+## My discord:
+- https://discord.gg/wMMUz8QE5H
+
 ##Working for:
-Wex Scripts
 - https://discord.gg/V92aUZ6pHT
 
 <!--
