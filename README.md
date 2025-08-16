@@ -2,7 +2,7 @@
 I am FiveM developer from Czech Republic
 
 ## My discord:
-- https://discord.gg/wMMUz8QE5Hs
+- https://discord.gg/wMMUz8QE5H
 
 ##Working for:
 - https://discord.gg/V92aUZ6pHT
