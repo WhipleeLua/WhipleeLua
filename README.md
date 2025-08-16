@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi theres 👋
 I am FiveM developer from Czech Republic
 
 ## My discord:
