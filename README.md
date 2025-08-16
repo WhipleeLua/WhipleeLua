@@ -6,7 +6,6 @@ I am FiveM developer from Czech Republic
 
 ##Working for:
 - https://discord.gg/V92aUZ6pHT
-s
 <!--
 **WhipleeLua/WhipleeLua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
