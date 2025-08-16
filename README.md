@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+I am FiveM developer from Czech Republic
+##Working for:
+Wex Scripts
+- https://discord.gg/V92aUZ6pHT
 
 <!--
 **WhipleeLua/WhipleeLua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
