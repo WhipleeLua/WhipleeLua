@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am FiveM developer from Czech Republic
+I am FiveM developer from Czech Republic.
+I am helping all new developer to learn something and creating scripts
 
 ## My discord:
 - https://discord.gg/wMMUz8QE5H
